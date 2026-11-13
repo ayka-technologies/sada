@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "disableAssistantLinks": { "title": "Never open AI assistants", "description": "Sada only copies the question; it never opens ChatGPT, Gemini or any other assistant.", "type": "boolean" },
+    "disableRival": { "title": "No competitor reading", "description": "Hide the Rival comparison, so Sada never reads another company's website.", "type": "boolean" },
+    "disableSiteScan": { "title": "Current page only", "description": "Sada reads only the page the user is on, never other pages of the site.", "type": "boolean" },
+    "disableOnDeviceAI": { "title": "No built-in browser AI", "description": "Sada does not use the browser's on-device language model for drafts and rewrites.", "type": "boolean" },
+    "hideContactOffers": { "title": "Hide offers", "description": "Hide the buttons to book a call or email AYKA Technologies.", "type": "boolean" }
+  }
+}
