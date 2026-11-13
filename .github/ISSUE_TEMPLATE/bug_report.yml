@@ -1,0 +1,18 @@
+name: Bug report
+description: Something in Sada does not work as expected
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes: {label: Sada version, description: "Shown at the bottom of the panel, e.g. 0.8.5"}
+    validations: {required: true}
+  - type: input
+    id: browser
+    attributes: {label: Browser and version, placeholder: "Chrome 131 on Windows 11"}
+  - type: textarea
+    id: what
+    attributes: {label: What happened, description: "Steps, what you expected, what you saw. A screenshot helps. Please do not paste private data."}
+    validations: {required: true}
+  - type: input
+    id: page
+    attributes: {label: Kind of page, placeholder: "WordPress restaurant site, Shopify product page, LinkedIn company page…"}
