@@ -6,40 +6,42 @@ builds your fix pack. Everything runs on your computer: no account, no API key, 
 
 ![Sada](docs/screenshot.png)
 
-**[⬇ Download Sada (sada.zip)](https://github.com/ayka-technologies/sada/releases/latest/download/sada.zip)** ·
+**[⬇ Download Sada (Sada-by-AYKA.zip)](https://github.com/ayka-technologies/sada/releases/latest/download/Sada-by-AYKA.zip)** ·
 [Website](https://getayka.com/sada/) · [Privacy](https://getayka.com/sada/privacy/) · Free GEO course:
 [getayka.com/academy](https://getayka.com/academy/)
 
 ## Install (2 minutes)
 
-1. Download **sada.zip** (link above) and unzip it into a folder you keep (for example `Documents\Sada`).
+Step-by-step with pictures: **[getayka.com/sada/#install](https://getayka.com/sada/#install)**
+
+1. Download **Sada-by-AYKA.zip** (link above). Right-click it → **Extract All** → **Extract**. Keep the new `Sada-by-AYKA` folder.
 2. In Chrome, open `chrome://extensions` and switch on **Developer mode** (top right).
-3. Click **Load unpacked** and choose the unzipped folder (the one that contains `manifest.json`).
+3. Click **Load unpacked** and choose the `Sada-by-AYKA` folder (the one that contains `manifest.json`).
 4. Click the puzzle icon in the toolbar and pin **Sada**. Open your website and click the Sada icon.
 
 Works in Chrome 116+, Edge, Brave and Opera (same steps; in Edge the page is `edge://extensions`).
 
-**Update:** download the new sada.zip, unzip it over the same folder, then click the reload arrow on Sada in
+**Update:** download the new Sada-by-AYKA.zip, unzip it over the same folder, then click the reload arrow on Sada in
 `chrome://extensions`. Your results and settings stay.
 
 ## Installation (français)
 
-1. Téléchargez **sada.zip** (lien ci-dessus) et décompressez-le dans un dossier que vous gardez.
+1. Téléchargez **Sada-by-AYKA.zip** (lien ci-dessus) : clic droit → **Extraire tout** → **Extraire**. Gardez le dossier `Sada-by-AYKA`. Guide illustré : [getayka.com/fr/sada/#install](https://getayka.com/fr/sada/#install)
 2. Dans Chrome, ouvrez `chrome://extensions` et activez le **Mode développeur** (en haut à droite).
-3. Cliquez sur **Charger l'extension non empaquetée** et choisissez le dossier décompressé (celui qui contient `manifest.json`).
+3. Cliquez sur **Charger l'extension non empaquetée** et choisissez le dossier `Sada-by-AYKA` (celui qui contient `manifest.json`).
 4. Épinglez **Sada** via l'icône puzzle, ouvrez votre site et cliquez sur l'icône Sada.
 
-**Mise à jour :** téléchargez le nouveau sada.zip, décompressez-le dans le même dossier, puis cliquez sur la flèche de
+**Mise à jour :** téléchargez le nouveau Sada-by-AYKA.zip, décompressez-le dans le même dossier, puis cliquez sur la flèche de
 rechargement de Sada dans `chrome://extensions`.
 
 ## التثبيت (العربية)
 
-1. نزّل **sada.zip** (الرابط أعلاه) وفكّ ضغطه في مجلد تحتفظ به.
+1. نزّل **Sada-by-AYKA.zip** (الرابط أعلاه)، ثم بزر الفأرة اليمين: **استخراج الكل** ← **استخراج**. احتفظ بالمجلد `Sada-by-AYKA`. دليل مصوّر: [getayka.com/ar/sada/#install](https://getayka.com/ar/sada/#install)
 2. في Chrome افتح `chrome://extensions` وفعّل **وضع المطوّر** (أعلى اليمين).
-3. اضغط **تحميل إضافة غير مضغوطة** واختر المجلد بعد فك الضغط (الذي يحتوي على `manifest.json`).
+3. اضغط **تحميل إضافة غير مضغوطة** واختر المجلد `Sada-by-AYKA` (الذي يحتوي على `manifest.json`).
 4. ثبّت **صدى** من أيقونة القطعة في شريط الأدوات، وافتح موقعك، واضغط أيقونة صدى.
 
-**التحديث:** نزّل sada.zip الجديد وفكّ ضغطه في المجلد نفسه، ثم اضغط سهم إعادة التحميل على صدى في `chrome://extensions`.
+**التحديث:** نزّل Sada-by-AYKA.zip الجديد وفكّ ضغطه في المجلد نفسه، ثم اضغط سهم إعادة التحميل على صدى في `chrome://extensions`.
 
 ## Privacy
 
