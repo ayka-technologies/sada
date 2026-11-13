@@ -1,0 +1,14 @@
+{
+ "appName": {
+  "message": "Sada by AYKA : compagnon GEO et recherche IA"
+ },
+ "appDesc": {
+  "message": "Agent de recherche IA gratuit : prédit les questions posées à ChatGPT et Perplexity, trouve les réponses manquantes. Privé."
+ },
+ "actionTitle": {
+  "message": "Analyser cette page avec Sada"
+ },
+ "sendAnswer": {
+  "message": "Envoyer la réponse IA sélectionnée à Sada"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "appName": {
+  "message": "Sada by AYKA: GEO & AI search companion"
+ },
+ "appDesc": {
+  "message": "Free AI-search agent: predicts what customers ask ChatGPT and Perplexity, finds missing answers, builds your fix pack. Private."
+ },
+ "actionTitle": {
+  "message": "Check this page with Sada"
+ },
+ "sendAnswer": {
+  "message": "Send the selected AI answer to Sada"
+ }
+}

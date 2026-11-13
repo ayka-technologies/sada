@@ -1,0 +1,14 @@
+{
+ "appName": {
+  "message": "Sada by AYKA: GEO- und KI-Such-Begleiter"
+ },
+ "appDesc": {
+  "message": "Kostenloser KI-Such-Agent: sagt Kundenfragen an ChatGPT und Perplexity voraus und findet fehlende Antworten. Privat."
+ },
+ "actionTitle": {
+  "message": "Diese Seite mit Sada prüfen"
+ },
+ "sendAnswer": {
+  "message": "Markierte KI-Antwort an Sada senden"
+ }
+}
